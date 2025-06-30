@@ -1,12 +1,23 @@
-# React + Vite
+<H1>DESCRIPTION</H1>
+<P>
+  This is a Developer Portfolio Home Page built as part of the Frontend Developer . The design is inspired from the provided Figma file and developed using react.js with Tailwind CSS, following a component-based architecture. The project emphasizes clean UI, responsive design and code best practices.
+</P>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<H1>Key Features Description</H1>
+<P>1.Fully Responsive Layout (Mobile, Tablet, Desktop)   </p>
+<P>2.Animations using Framer Motion (Smooth fade-in, hover) </P>
+<P>3.Modular Folder Structure (components/services)</P>
 
-Currently, two official plugins are available:
+<H1>SetUp Instructions</H1>
+<P>1. Clone the repository:git clone</P>
+<P>2. Install dependencies </P>
+<P>3. Start the frontend</P>
+<P>4.Live Project & Resources</P>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<H1>Framework & Tools</H1>
+<P>1.react.js</P>
+<P>2.Tailwind.css </P>
+<P>3.farmer- motion</P>
+<P>4.React icons</P>
+<P>5.Vite</P>
+<P>6.DaisyUI</P>
