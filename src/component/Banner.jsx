@@ -6,7 +6,7 @@ import { FaPhone } from "react-icons/fa6";
 import { motion } from 'framer-motion';
 const Banner = () => {
     return (
-        <div class="bg-[url('../../public/image/Screenshot_20250629_125709_Chrome.jpg')] sm:bg-cover bg-center  h-full w-full">
+        <div class="bg-[url('/image/Screenshot_20250629_125709_Chrome.jpg')] sm:bg-cover bg-center  h-full w-full">
             <div className="px-4 sm:px-10 pb-3 sm:pb-1">
                 <motion.h1
                     initial={{ x: -500, opacity: 0 }}
