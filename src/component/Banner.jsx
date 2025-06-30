@@ -4,6 +4,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaPhone } from "react-icons/fa6";
 import { motion } from 'framer-motion';
+import pic from '../../public/image/Screenshot_20250629_125709_Chrome.jpg'
 const Banner = () => {
     return (
         <div class="bg-[url('/image/Screenshot_20250629_125709_Chrome.jpg')] sm:bg-cover bg-center  h-full w-full">

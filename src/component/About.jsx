@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const About = () => {
     return (
         <div
-            class="bg-[url('/image/Screenshot_20250629_131216_Chrome.jpg')] sm:bg-cover bg-center  h-full w-full">
+            class="bg-[url('/image/Screenshot_20250629_131216_Chrome.jpg')] sm:bg-cover bg-center h-full w-full">
 
             <div className="pt-14 mb-12">
                 <motion.div
