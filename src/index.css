@@ -12,3 +12,6 @@
     font-size:30px;
     margin: 5px;
 }
+.bg-Image{
+  background-image: url('/public/image/Screenshot_20250629_131443_Chrome.jpg');
+}
