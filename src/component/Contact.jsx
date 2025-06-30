@@ -2,10 +2,11 @@ import { FaArrowDown, FaFacebook, FaInstagram, FaPhone, FaTwitter } from "react-
 import { IoIosSend } from "react-icons/io";
 import { GoDash } from "react-icons/go";
 import { AiOutlineContacts } from "react-icons/ai";
+// import pic from '/projects/task-demo-portfolio/public/image/Screenshot_20250629_131443_Chrome.jpg'
 import { motion } from 'framer-motion';
 const Contact = () => {
     return (
-        <div class="bg-[url('../../public/image/Screenshot_20250629_131443_Chrome.jpg')] sm:bg-cover bg-center  h-full w-full">
+        <div class="bg-[url('/projects/task-demo-portfolio/public/image/Screenshot_20250629_131443_Chrome.jpg')] sm:bg-cover bg-center  h-full w-full">
             <div className="px-4 sm:px-10 py-14 sm:flex justify-between items-center">
 
                 <motion.div
